@@ -2,7 +2,7 @@
 
 If the normal .ipynb does not open, try opening the "NO-OUTPUTS" file.
 
-**All the data, code, and graphs for the final predictions is contained in the end-of-season-predictions folder**
+**All the data and code for the final predictions is contained in the end-of-season-predictions folder**
 
 [Link to mid-season predictions blog post.](https://dribbleanalytics.blogm/2019/03/ml-all-nba-predict)
 
