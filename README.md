@@ -85,6 +85,6 @@ The table below shows the average predicted results for the final predictions.
 
 |Average Predictions|Guard|Guard|Forward|Forward|Center|
 :--|:--|:--|:--|:--|:--|
-|1st team|Damian Lillard (0.947)\*\|James Harden (0.997)|Giannis Antetokounmpo (1.000)|Kevin Durant (0.984)|Joel Embiid (0.900)|
-|2nd team|Stephen Curry (0.947)\*\|Russell Westbrook (0.811)|Paul George (0.963)|Kawhi Leonard (0.884)|Nikola Jokic (0.897)|
+|1st team|Damian Lillard (0.947)\*|James Harden (0.997)|Giannis Antetokounmpo (1.000)|Kevin Durant (0.984)|Joel Embiid (0.900)|
+|2nd team|Stephen Curry (0.947)\*|Russell Westbrook (0.811)|Paul George (0.963)|Kawhi Leonard (0.884)|Nikola Jokic (0.897)|
 |3rd team|Kyrie Irving (0.713)|Kemba Walker (0.417)|LeBron James (0.551)|Blake Griffin (0.420)|Rudy Gobert (0.854)|
