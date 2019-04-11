@@ -2,7 +2,17 @@
 
 If the normal .ipynb does not open, try opening the "NO-OUTPUTS" file.
 
-[Link to blog post.](https://dribbleanalytics.blogspot.com/2019/03/ml-all-nba-predict.html)
+**All the data, code, and graphs for the final predictions is contained in the end-of-season-predictions folder**
+
+[Link to mid-season predictions blog post.](https://dribbleanalytics.blogm/2019/03/ml-all-nba-predict)
+
+[Link to final predictions blog post.](https://dribbleanalytics.blog/2019/04/ml-mvp-all-nba-predict-2019)
+
+## Dates of data collection
+
+Data for the mid-season predictions was collected on 2/7 before any games were played.
+
+Data for the final post was collected after the end of the regular season.
 
 ## Data collection
 
@@ -63,10 +73,18 @@ The prediction data set consisted of every player who played in the All-Star gam
 
 ## Results
 
-The table below shows the average predicted results.
+The table below shows the average predicted results for the initial mid-season predictions.
 
 |Average Predictions|Guard|Guard|Forward|Forward|Center|
 :--|:--|:--|:--|:--|:--|
 |1st team|Stephen Curry (0.974)|James Harden (1.000)|Paul George (0.996)|Giannis Antetokounmpo (1.000)|Nikola Jokic (0.939)|
 |2nd team|Damian Lillard (0.901)|Russell Westbrook (0.799)|Kevin Durant (0.994)|Kawhi Leonard (0.871)|Joel Embiid (0.919)|
 |3rd team|Kyrie Irving (0.783)|Ben Simmons (0.441)|LeBron James (0.679)|Blake Griffin (0.335)|Rudy Gobert (0.863)|
+
+The table below shows the average predicted results for the final predictions.
+
+|Average Predictions|Guard|Guard|Forward|Forward|Center|
+:--|:--|:--|:--|:--|:--|
+|1st team|Damian Lillard (0.947)\*\|James Harden (0.997)|Giannis Antetokounmpo (1.000)|Kevin Durant (0.984)|Joel Embiid (0.900)|
+|2nd team|Stephen Curry (0.947)\*\|Russell Westbrook (0.811)|Paul George (0.963)|Kawhi Leonard (0.884)|Nikola Jokic (0.897)|
+|3rd team|Kyrie Irving (0.713)|Kemba Walker (0.417)|LeBron James (0.551)|Blake Griffin (0.420)|Rudy Gobert (0.854)|
